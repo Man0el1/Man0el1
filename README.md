@@ -1,5 +1,10 @@
+Hello! I'm Manoel Geremias, a student currently in the 5th semester of Computer Science course.
+For now, I'm just using my Github for learning porpusoses purposes.
+
+#-----------------
+
 Olá! Sou o estudante Manoel Geremias, atualmente no 5° Semestre no curso de Ciências da Computação<br>
-Por enquanto, estou apenas utilizando meu Github para aprendizado, todo meu conteudo publico está <a href="https://github.com/Man0el1/Codigos-Estudos">aqui :D</a>
+Por enquanto, estou apenas utilizando meu Github para aprendizado.
 
 
 ### Linguagens e mais
