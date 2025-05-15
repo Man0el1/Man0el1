@@ -1,5 +1,5 @@
 Hello! I'm Manoel Geremias, a student currently in the 5th semester of Computer Science course.
-For now, I'm just using my Github for learning porpusoses purposes.
+For now, I'm just using my Github for learning purposes.
 
 #-----------------
 
