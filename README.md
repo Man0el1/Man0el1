@@ -1,10 +1,10 @@
-Hello! I'm Manoel Geremias, a student currently in the 5th semester of Computer Science course.
-For now, I'm just using my Github for learning purposes.
+Hello! I'm Manoel Geremias, a web developer currently in the 6th semester of Computer Science course.<br>
+Currently using my Github for learning purposes and showcasing projects.
 
 #-----------------
 
-Olá! Sou o estudante Manoel Geremias, atualmente no 5° Semestre no curso de Ciências da Computação<br>
-Por enquanto, estou apenas utilizando meu Github para aprendizado.
+Olá! Sou o Manoel Geremias, um desenvolvedor web atualmente no 6° Semestre no curso de Ciências da Computação<br>
+Atualmente estou utilizando meu Github para aprendizado e mostra de projetos.
 
 
 ### Linguagens e mais
@@ -20,4 +20,4 @@ Por enquanto, estou apenas utilizando meu Github para aprendizado.
 <img align="left" alt="sql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="postgresql" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain.svg"/>              
 <img align="left" alt="mongodb" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
-<img align="left" alt="c" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
+<img align="left" alt="c" width="50px" style="padding-right:10px; padding-top:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/>
